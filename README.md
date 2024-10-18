@@ -1,4 +1,5 @@
-CLOCKEDIN: A surface level solution created for my Software Engineering course at WIT. Primarily utilizes the SOQL and REST API features from the Salesforce CRM platform to allow for OAuth sign in. 
+# CLOCKEDIN
+**A surface level solution created for my Software Engineering course at WIT. Primarily utilizes the SOQL and REST API features from the Salesforce CRM platform to allow for OAuth sign in.**
 
 [Watch a video demonstration of the software here](https://www.youtube.com/watch?v=CNlCZtdrzE4)
 
