@@ -1,5 +1,9 @@
 CLOCKEDIN: A surface level solution created for my Software Engineering course at WIT. Primarily utilizes the SOQL and REST API features from the Salesforce CRM platform to allow for OAuth sign in. 
 
+[Watch a video demonstration of the software here](https://www.youtube.com/watch?v=CNlCZtdrzE4)
+
+![screenshot](https://github.com/user-attachments/assets/2412abc5-98c5-405b-a7c2-d405f4dbb5cf)
+
 Features:
 
 - Easy and seamless sign in via OAuth 2.0, offered by Salesforce
@@ -15,6 +19,3 @@ Future Updates:
 - Changes are not made in real time with scheduling; schedule day objects are only updated at the time of authentication via OAuth2, which can be changed by making updates based on a system timer or JavaFX scene change condition.
 
 *Functionality for this software is currently only working for my own self generated Salesforce org. I may create a download link later with an attached .txt file that can be updated to allow for details of users' Salesforce orgs to be inputted.
-
-- I will eventually add a link here for my project presentation which goes over the general functionality of the software and the reason for its creation. A downloadable .msi installer or .zip file is currently not available as I, as mentioned above,
-have not implemented the functionality to allow for ANY user except myself to access the org/server.
